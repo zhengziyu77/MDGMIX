@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# MDGMIX
-=======
-# MDMIX
-<h1 align="center"> MDGMIX: Boundary-Aware Subgraph Mixing for Multi-Domain Graph Pre-Training </a></h2>
+
+
+
+<h1 align="center"> [ICML2026]MDGMIX: Boundary-Aware Subgraph Mixing for Multi-Domain Graph Pre-Training </a></h2>
 
 
 
@@ -28,5 +27,3 @@ python runexp.py --dataset Citeseer --lr 0.0001 --downstreamlr 0.001 --epochs 50
 python runexp.py --dataset Cora  --lr 0.0001 --downstreamlr 0.001 --epochs 500 --shot_num 1
 
 
-
->>>>>>> eae333f (Initial commit)
